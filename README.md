@@ -15,9 +15,9 @@
 - ⚡ Fun fact: `type(...).mro()[-1] == object`
 
 
+
 ### Things I code with</h3>
 <p>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -49,13 +49,10 @@
 
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 
-<img alt="Google Drive" src="https://img.shields.io/badge/-Google_Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 <img alt="CodePen" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=CodePen&logoColor=white" />
 
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="pypi" src="https://img.shields.io/badge/-PyPI
--3775A9?style=flat-square&logo=PyPI&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white" />
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
