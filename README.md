@@ -1,12 +1,7 @@
-
-
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey bro, good to see you. 
-
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey bro, good to see you.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=s045pd.s045pd)
-
 
 - 🔭 I’m currently working on `[some where]`
 - 🌱 I’m currently learning Fullstack and Pentest
@@ -14,10 +9,10 @@
 - 📫 How to reach me: *s045pd.x@gmail.com*
 - ⚡ Fun fact: `type(...).mro()[-1] == object`
 
+### Things I code with
 
-
-### Things I code with</h3>
 <p>
+<img alt="C4model" src="https://img.shields.io/badge/-C4model-1DA1F2?style=flat-square&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -34,7 +29,6 @@
 
 <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
-
 <img alt="Celery" src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white" />
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
@@ -42,11 +36,8 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
 
-
-
 <img alt="Tor" src="https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=Tor&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
@@ -57,12 +48,8 @@
 <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white" />
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
 
-
 </p>
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
 
-
- 
-
+<iframe style="border:none;word-break:warp" src="https://pyocean.com/data/html/every_day_cmd.html"></iframe>
