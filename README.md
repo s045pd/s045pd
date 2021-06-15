@@ -52,4 +52,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
 
-<img style="border:none;word-break:warp" src="http://pyocean.com:12308/png" />
+<img style="border:none;word-break:warp" src="https://pyocean.com/every_day_cmd/flush" />
