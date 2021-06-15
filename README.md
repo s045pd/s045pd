@@ -9,7 +9,7 @@
 - 📫 How to reach me: *s045pd.x@gmail.com*
 - ⚡ Fun fact: `type(...).mro()[-1] == object`
 
-### Things I code with
+### ⌨️ Things I code with
 
 <p>
 <img alt="C4model" src="https://img.shields.io/badge/-C4model-1DA1F2?style=flat-square&logoColor=white" />
@@ -52,12 +52,7 @@
 
 ![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
 
-### Funny code you will learn
+### 🤡 Funny code you will learn
 
-<img alt="Every Day CMD" style="border:none;word-break:warp" src="https://pyocean.com/every_day_cmd/flush?" />
-
-
-<!-- ### Funny code you will learn
-
-![Every Day CMD](//pyocean.com/every_day_cmd/flush?) -->
+![Every Day CMD](https://pyocean.com/every_day_cmd/flush?)
 
