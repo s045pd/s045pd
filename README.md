@@ -50,6 +50,10 @@
 
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
+![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
 
-<img style="border:none;word-break:warp" src="https://pyocean.com/every_day_cmd/flush?" />
+
+### Funny code you will learn
+
+![Every Day CMD](https://pyocean.com/every_day_cmd/flush?)
+
