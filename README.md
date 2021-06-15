@@ -52,9 +52,9 @@
 
 ![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
 
-Funny code you will learn
+### Funny code you will learn
 
-<img style="border:none;word-break:warp" src="pyocean.com/every_day_cmd/flush?" />
+<img alt="Every Day CMD" style="border:none;word-break:warp" src="https://pyocean.com/every_day_cmd/flush?" />
 
 
 <!-- ### Funny code you will learn
