@@ -54,7 +54,7 @@
 
 Funny code you will learn
 
-<img style="border:none;word-break:warp" src="//pyocean.com/every_day_cmd/flush?" />
+<img style="border:none;word-break:warp" src="pyocean.com/every_day_cmd/flush?" />
 
 
 <!-- ### Funny code you will learn
