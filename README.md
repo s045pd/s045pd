@@ -55,4 +55,3 @@
 ### 🤡 Funny code you will learn
 
 ![Every Day CMD](https://pyocean.com/every_day_cmd/flush?)
-
