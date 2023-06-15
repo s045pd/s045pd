@@ -54,4 +54,4 @@
 
 ### 🤡 Funny code you will learn
 
-![Every Day CMD](https://pyocean.com/every_day_cmd/png)
+![Every Day CMD](https://pyocean.com/every_day_cmd/png) 
