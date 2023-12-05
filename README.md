@@ -55,7 +55,8 @@
 
 </p>
 
-![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=aura)
+
+![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=aura&count_private=true)
 
 [![S045pd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=broindarkside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
