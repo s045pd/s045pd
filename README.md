@@ -1,6 +1,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey bro, good to see you.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![wakatime](https://wakatime.com/badge/user/018b0028-d17a-45dd-9139-bf4d13f97115.svg)](https://wakatime.com/@018b0028-d17a-45dd-9139-bf4d13f97115)
 ![](https://komarev.com/ghpvc/?username=s045pd)
 
 - 🔭 I’m currently working on `[some where]`
