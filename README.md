@@ -1,7 +1,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey bro, good to see you.
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=s045pd.s045pd)
+![](https://komarev.com/ghpvc/?username=s045pd)
 
 - 🔭 I’m currently working on `[some where]`
 - 🌱 I’m currently learning Fullstack and Pentest
@@ -13,7 +13,7 @@
 
 <p>
 <img alt="C4model" src="https://img.shields.io/badge/-C4model-1DA1F2?style=flat-square&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-F7DF1E?style=flat-square&logo=CSS3&logoColor=white" />
@@ -28,8 +28,10 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
 <img alt="Celery" src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
@@ -44,9 +46,11 @@
 <img alt="CodePen" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=CodePen&logoColor=white" />
 
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+
 <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white" />
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" />
+
+
 
 </p>
 
