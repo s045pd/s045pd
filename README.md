@@ -50,7 +50,7 @@
 
 </p>
 
-![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=dracula)
+![S045pd's github stats](https://github-readme-stats.vercel.app/api?username=s045pd&show_icons=true&theme=aura)
 
 ### 🤡 Funny code you will learn
 
